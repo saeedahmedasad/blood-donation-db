@@ -1,0 +1,21 @@
+SQL Practice Questions for Blood Donation Database
+1. List all the donors who live in 'Los Angeles'.
+2. Find the names and blood groups of all donors.
+3. Get all patients who are suffering from 'Thalassemia'.
+4. Find all hospitals that have the word 'City' in their name.
+5. Show all donors who have blood group 'A+' and are from 'New York'.
+6. Get all donors who are not from 'Chicago'.
+7. List all donors who have donated more than once.
+8. How many donations were made in total?
+9. What is the average quantity of blood donated per donation?
+10. Count how many donors are there for each blood group.
+11. List all donations along with donor names and donation dates.
+12. Get the disease name for each patient.
+13. Find all hospitals along with the blood group and available quantity in their inventory.
+14. List all donations made between '2024-01-01' and '2024-12-31'.
+15. Get donors who haven’t donated in the last 6 months.
+16. List donors who share the same blood group with at least one other donor.
+17. Show top 3 hospitals with the highest blood inventory for blood group 'O+'.
+18. Find all donors who have never received any rewards.
+19. Get all full names that are either in the donor or patient list (no duplicates).
+20. List donors who have donated at least once and have also earned reward points.
